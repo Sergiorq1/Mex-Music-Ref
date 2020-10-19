@@ -96,6 +96,7 @@ div.item {
     display: flex;
     flex-direction: row;
 }
+
 img{
     margin-right: 5em;
 }
